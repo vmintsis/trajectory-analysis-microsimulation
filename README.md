@@ -64,7 +64,7 @@ We welcome your contributions.
 - Please report bugs and improvements by submitting [GitHub issue](https://github.com/vmintsis/trajectory-analysis-microsimulation/issues).
 - Submit your contributions using [pull requests](https://github.com/vmintsis/trajectory-analysis-microsimulation/pulls).
 
-# Citing EVPA
+# Citing TrajAIM
 
 If you use TrajAIM for academic research, you are highly encouraged to cite our paper:
 
